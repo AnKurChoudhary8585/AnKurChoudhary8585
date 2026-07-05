@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 LDCE"27 | Computer Engineering<br>JavaScript | Web Development | Python Developer | Data analytics | Data Science(Python) | MERN Stack<br><br>
 
 
